@@ -1,4 +1,4 @@
-# Hello, World! 🌎 I'm Krushna
+# Hello,🌎 I'm Krushna
 
 **Bioinformatics Specialist | NGS Data Expert | Pipeline Developer**
 
